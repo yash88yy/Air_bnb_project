@@ -22,7 +22,7 @@ This project provides valuable insights into the Airbnb market in New York City.
 # Data Sources:
 
 Airbnb data: https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
-New York City neighborhood data: https://data.cityofnewyork.us/City-Government/Neighborhood-Tabulation-Areas-NTA-/cpf4-rkhq
+ New York City neighborhood data : https://data.cityofnewyork.us/City-Government/Neighborhood-Tabulation-Areas-NTA-/cpf4-rkhq
 
 # Tools:
 
